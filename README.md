@@ -85,11 +85,7 @@ http://localhost:5000
 
 ## 📸 Screenshot
 
-```text
-image/cal_app.png
-```
-
-Then it will appear in this README file.
+![Calculator Preview](image/cal_app.png)
 
 ---
 
