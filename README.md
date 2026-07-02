@@ -59,7 +59,7 @@ calculator-app/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/calculator-app.git
+git clone https://github.com/sumitcoin/Calculator_Python.git
 cd calculator-app
 ```
 
@@ -85,10 +85,8 @@ http://localhost:5000
 
 ## 📸 Screenshot
 
-Add your calculator screenshot inside the `assets` folder and name it:
-
 ```text
-calculator-preview.png
+image/cal_app.png
 ```
 
 Then it will appear in this README file.
